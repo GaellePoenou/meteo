@@ -1,6 +1,8 @@
+Application Météo
+
 Caractéristiques Techniques :
 
-HTML5 et CSS3 : La structure de l'application est basée sur les normes HTML5 pour une sémantique claire, et le CSS3 est utilisé pour le stylage élégant et la mise en page responsive.
+HTML5 et CSS3 : La structure de l'application est basée sur les normes HTML5 pour une sémantique claire, et le CSS3 est utilisé pour le style.
 
 JavaScript Asynchrone : L'interaction avec l'API OpenWeatherMap est gérée de manière asynchrone grâce à JavaScript, assurant une expérience utilisateur fluide sans rechargement de page.
 
