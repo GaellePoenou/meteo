@@ -1,17 +1,30 @@
-Application Météo
+# Application Météo
 
-Caractéristiques Techniques :
+## Description
 
-HTML5 et CSS3 : La structure de l'application est basée sur les normes HTML5 pour une sémantique claire, et le CSS3 est utilisé pour le style.
+Cette application météo offre une expérience utilisateur intuitive, fournissant des informations météorologiques en temps réel. Le design esthétique et la gestion asynchrone des données à partir de l'API OpenWeatherMap démontrent ma capacité à créer des interfaces interactives et fonctionnelles.
 
-JavaScript Asynchrone : L'interaction avec l'API OpenWeatherMap est gérée de manière asynchrone grâce à JavaScript, assurant une expérience utilisateur fluide sans rechargement de page.
+## Caractéristiques Techniques
 
-Gestion des Requêtes API : L'application envoie des requêtes à l'API OpenWeatherMap pour récupérer les données météorologiques en temps réel, démontrant ma capacité à intégrer des données externes dans des projets web.
+- **HTML5 et CSS3** : La structure de l'application est conforme aux normes HTML5, avec un style moderne grâce au CSS3.
 
-Interface Utilisateur Intuitive : L'interface utilisateur est conçue pour être conviviale et esthétiquement agréable, avec des icônes météo visuellement distinctes pour une identification instantanée.
+- **JavaScript Asynchrone** : L'interaction avec l'API OpenWeatherMap est gérée de manière asynchrone, garantissant une expérience utilisateur fluide.
 
-Gestion d'Erreurs : J'ai implémenté une gestion d'erreurs pour informer l'utilisateur lorsque le nom de la ville est incorrect, démontrant ma capacité à anticiper et à résoudre des problèmes potentiels.
+- **Gestion des Requêtes API** : Envoi de requêtes à l'API OpenWeatherMap pour des données météorologiques en temps réel.
 
-À Propos du Projet :
+- **Interface Utilisateur Intuitive** : Conception conviviale avec des icônes météo distinctes.
 
-Ce projet météo a été une excellente occasion d'appliquer mes compétences en développement web à un cas d'utilisation pratique. Il illustre ma compréhension des concepts clés du développement front-end, de la manipulation du DOM aux appels API, en passant par la gestion événementielle.
+- **Gestion d'Erreurs** : Implémentation d'une gestion d'erreurs pour des retours informatifs en cas de nom de ville incorrect.
+
+
+## Installation
+
+1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/application-meteo.git`
+2. **Ouvrez le fichier HTML** : `index.html`
+
+## Utilisation
+
+1. Saisissez le nom de votre ville pour obtenir les prévisions météorologiques.
+2. Explorez l'interface intuitive pour des informations détaillées.
+
+
